@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern>hola</pattern>
+    <template>En que puedo ayudarte</template>
+</category>
+
+<category>
+	<pattern>DE DONDE ERES</pattern>
+	<template>de un universo paralelo</template>
+</category>
+
+<category>
+	<pattern>EDAD</pattern>
+	<template>infinito</template>
+</category>
+
+<category>
+	<pattern>DIME LA HORA</pattern>
+	<template>EL TIEMPO ES MUY DIFICIL DE DECIFRAR</template>
+</category>
+
+<category>
+	<pattern>DIME UN CHISTE</pattern>
+	<template>Soy un bot no un payaso</template>
+</category>
+
+<category>
+	<pattern>QUE TE GUSTA</pattern>
+	<template>La vida terrestre</template>
+</category>
+
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
